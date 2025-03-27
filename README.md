@@ -70,7 +70,7 @@ you can also check on 📂 Docs
 ---
 
 ### Sales Trend
-- The company sales peaked in January 2019 with $116,262 monthly revenue. this revenue going hype because people want celebrate new year 2019 and there is discount price making satisfaction not in vain.
+- The company sales peaked in January 2019 with $110.754 monthly revenue. this revenue going hype because people want celebrate new year 2019 and there is discount price making satisfaction not in vain.
 - after celebrate party new year 2019 in february sales going downward at this time people saving money for next celebrate coming,
 - in february to march trends going upward because there is festival holi making people prepare for the event but the sactisfaction not upward there is no discount on this time.
 
