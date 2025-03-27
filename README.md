@@ -62,3 +62,7 @@ you can check the dataset on 📂 dataset.
 Product sales analysis highlights that Fashion Accessories is the best-selling category, accounting for 17.8% of total sales, followed by Food & Beverage, Electronics, and Sports & Travel, each contributing around 16-17%. The dashboard also offers various filtering options, including sales date, customer type, payment method, product category, and rating, allowing for deeper data exploration. These insights suggest that customer experience improvements could enhance satisfaction scores, while promotional strategies and inventory optimization could help stabilize daily revenue and maximize sales opportunities.
 
 Below is the overview  page from the power BI dashboard.
+
+![Image](https://github.com/user-attachments/assets/f7248d1e-eeef-4815-a252-e4d591dca5cf)
+
+you can also check on 📂 Docs
