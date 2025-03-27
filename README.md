@@ -57,13 +57,13 @@ you can check the dataset on 📂 dataset.
 
 ## Executive Summary
 ### Overview the Dashboard
-👉 The Supermarket Sales Dashboard provides an insightful overview of revenue, customer satisfaction, and product performance. The total revenue recorded is $322,967, with an average customer rating of 6.97, indicating a moderately positive shopping experience. The supermarket has served 1,000 customers, with daily revenue fluctuating between $1,624 and $5,944. Customer satisfaction varies daily, peaking at 8.2 while dropping as low as 6.1, suggesting external factors affecting their experience. The revenue distribution by category shows that Food & Beverage leads with $56K, followed closely by Sports & Travel ($55K) and Electronics ($54K). Meanwhile, Health & Beauty ranks lowest with $49K in sales.
+👉 The Supermarket Sales Dashboard provides an insightful overview of revenue, customer satisfaction, and product performance. The total revenue recorded is $307.59, with an average customer rating of 6.97, indicating a moderately positive shopping experience. The supermarket has served 1,000 customers, with monthly revenue fluctuating between $92.590 and $110.754. Customer satisfaction varies monthly, peaking at 7.07 while dropping as low as 6.84, suggesting external factors affecting their experience. The revenue distribution by category shows that Food & Beverage leads with $56K, followed closely by Sports & Travel ($55K) and Electronics ($54K). Meanwhile, Health & Beauty ranks lowest with $49K in sales.
 
 Product sales analysis highlights that Fashion Accessories is the best-selling category, accounting for 17.8% of total sales, followed by Food & Beverage, Electronics, and Sports & Travel, each contributing around 16-17%. The dashboard also offers various filtering options, including sales date, customer type, payment method, product category, and rating, allowing for deeper data exploration. These insights suggest that customer experience improvements could enhance satisfaction scores, while promotional strategies and inventory optimization could help stabilize daily revenue and maximize sales opportunities.
 
 Below is the overview  page from the power BI dashboard.
 
-![Image](https://github.com/user-attachments/assets/23793a42-cb71-415c-b52f-5ea3ea7164d0)
+![Image](https://github.com/user-attachments/assets/b1bfbbf9-2fa1-47ba-9204-4b22cdcf0009)
 
 you can also check on 📂 Docs
 
