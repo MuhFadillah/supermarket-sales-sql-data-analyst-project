@@ -63,8 +63,11 @@ Product sales analysis highlights that Fashion Accessories is the best-selling c
 
 Below is the overview  page from the power BI dashboard.
 
-![Image](https://github.com/user-attachments/assets/f7248d1e-eeef-4815-a252-e4d591dca5cf)
+![Image](https://github.com/user-attachments/assets/23793a42-cb71-415c-b52f-5ea3ea7164d0)
 
 you can also check on 📂 Docs
 
-### 
+### Sales Trend
+- The company sales peaked in January 2019 with $116,262 monthly revenue. this revenue going hype because people want celebrate new year 2019 and there is discount price making satisfaction not in vain.
+- after celebrate party new year 2019 in february sales going downward at this time people saving money for next celebrate coming,
+- in february to march trends going upward because there is festival holi making people prepare for the event but the sactisfaction not upward there is no discount on this time.
