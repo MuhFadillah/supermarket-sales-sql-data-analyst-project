@@ -67,7 +67,25 @@ Below is the overview  page from the power BI dashboard.
 
 you can also check on 📂 Docs
 
+---
+
 ### Sales Trend
 - The company sales peaked in January 2019 with $116,262 monthly revenue. this revenue going hype because people want celebrate new year 2019 and there is discount price making satisfaction not in vain.
 - after celebrate party new year 2019 in february sales going downward at this time people saving money for next celebrate coming,
 - in february to march trends going upward because there is festival holi making people prepare for the event but the sactisfaction not upward there is no discount on this time.
+
+---
+
+### Objectives Detail
+- **Payment Method Analysis**
+
+  
+![Image](https://github.com/user-attachments/assets/bcba8205-1a1a-4b7b-8d26-f30da960e834)
+- **City-Wise Sales Performance** ,
+- **Category Revenue Breakdown** ,
+- **Transaction Trends** ,
+- **Customer Segmentation** ,
+- **Best-Selling Products** ,
+- **Peak Sales Periods** ,
+- **Demographic Insights** ,
+- **Tax Contribution Analysis** 
