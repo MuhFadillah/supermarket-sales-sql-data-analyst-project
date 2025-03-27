@@ -80,12 +80,30 @@ you can also check on 📂 Docs
 - **Payment Method Analysis**
 
   
-![Image](https://github.com/user-attachments/assets/bcba8205-1a1a-4b7b-8d26-f30da960e834)
-- **City-Wise Sales Performance** ,
-- **Category Revenue Breakdown** ,
-- **Transaction Trends** ,
-- **Customer Segmentation** ,
-- **Best-Selling Products** ,
-- **Peak Sales Periods** ,
-- **Demographic Insights** ,
-- **Tax Contribution Analysis** 
+![Image](https://github.com/user-attachments/assets/83a2b4ae-899e-4d5c-9528-d8f9d0e87904)
+- **City-Wise Sales Performance**
+
+ ![Image](https://github.com/user-attachments/assets/136a4630-341b-4e70-8e46-c4e2b29c55f9)
+- **Category Revenue Breakdown**
+
+ ![Image](https://github.com/user-attachments/assets/4cd21823-9a99-47d7-a9b5-91af34688b6a)
+- **Transaction Trends**
+
+ ![Image](https://github.com/user-attachments/assets/0a696bf5-53dd-45c2-b035-1690c2c2b0f9)
+- **Customer Segmentation**
+
+ ![Image](https://github.com/user-attachments/assets/e458eee0-0ea2-4f7c-b8e1-c031939052ef)
+- **Best-Selling Products**
+
+ ![Image](https://github.com/user-attachments/assets/be2f11c5-048d-40fe-b98b-4d176ab4f9d1)
+- **Peak Sales Periods**
+
+ ![Image](https://github.com/user-attachments/assets/c3bb0703-c6f9-44e2-97f9-71d882df1867)
+- **Tax Contribution Analysis**
+
+![Image](https://github.com/user-attachments/assets/8469c4db-6b4c-459a-9c75-360c34a0b007)
+- **Demographic Insights**
+
+![Image](https://github.com/user-attachments/assets/32a4cd11-ac3b-4a7c-bf4e-a373d8dcf4cc)
+
+## Recomendations
