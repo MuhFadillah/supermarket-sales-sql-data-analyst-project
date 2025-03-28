@@ -112,3 +112,5 @@ you can also check on 📂 Docs
 Based on the uncovered insights, the following recommendation have been provided:
 - **Enhance Customer Satisfaction**, Since customer satisfaction fluctuates and averages 6.97, strategies such as personalized promotions, improved customer service, and loyalty programs should be implemented to enhance the shopping experience, and Conduct surveys or analyze feedback to identify key factors affecting customer ratings and address their concerns proactively.
 - **Stabilize Daily Revenue**, The revenue per day fluctuates significantly; implementing limited-time discounts, membership programs, or flash sales can help maintain steady income, and Consider launching promotional campaigns aligned with peak shopping hours or customer behavior patterns.
+
+By implementing these recommendations, the supermarket can enhance customer experience, optimize sales performance, and maintain consistent revenue growth.
