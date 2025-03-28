@@ -106,4 +106,8 @@ you can also check on 📂 Docs
 
 ![Image](https://github.com/user-attachments/assets/32a4cd11-ac3b-4a7c-bf4e-a373d8dcf4cc)
 
+---
+
 ## Recomendations
+Based on the uncovered insights, the following recommendation have been provided:
+- 
